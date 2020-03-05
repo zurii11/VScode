@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Cobalt2",
+    "material-icon-theme.folders.color": "#fdd835",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'Fira Code', monospace",
+    "editor.fontLigatures": "'ss04', 'ss06', 'zero'",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "files.hotExit": "onExit",
+    "explorer.openEditors.visible": 0,
+    "timeline.showView": false,
+    "window.zoomLevel": 0,
+    "zenMode.centerLayout": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 2000,
+}
